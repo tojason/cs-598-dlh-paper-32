@@ -8,6 +8,7 @@
 # How to run the code
 Once you install the dependency, please run the following code to open Jupyter Notebook on your terminal (Mac OS/Linux system)
 * `jupyter notebook`
+Then you can run the cell block one by one.
 
 # Data download instruction
 The filtered data of MIMIC-III is `dataset/t1` folder. We only use a subset of MIMIC-III and it is filtered based on the requirement in the paper. This subset of MIMIC-III is already decoded that does not contains any original information from the original MIMIC-III.
